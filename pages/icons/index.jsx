@@ -6,7 +6,6 @@ import Section from '../../components/structure/section';
 import Container from '../../components/structure/container';
 
 import css from '../../styles/sections/icons/iconForm.module.scss'
-import { prefix } from '@fortawesome/pro-solid-svg-icons';
 
 export default function PageWithJSbasedForm() {
 	// Handles the submit event on form submit.
