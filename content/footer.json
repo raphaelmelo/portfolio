@@ -1,0 +1,43 @@
+{
+	"acknowledgments": [
+		{ 
+			"person": "Tassio Seiji - Líder técnico",
+			"link": "https://www.linkedin.com/in/raphaelgois/",
+			"note": "Considero um excelente profissional, contribuiu bastante na construção do nosso projeto."
+		},
+		{ 
+			"person": "Marcello Pires - Innovare",
+			"link": "https://www.linkedin.com/in/raphaelgois/",
+			"note": "O Raphael fez o desenvolvimento do nosso site, entregou um serviço de qualidade."
+		},
+		{ 
+			"person": "Elaine Póvoas - Mentora",
+			"link": "https://www.linkedin.com/in/raphaelgois/",
+			"note": "Um profissional que reune características fundamentais para fazer acontecer onde estiver."
+		}
+	],
+
+	"links": [
+		{ 
+			"person": "Como tenho me tornado um Profissional em T",
+			"link": "https://www.linkedin.com/pulse/como-tenho-me-tornado-um-profissional-em-na-getup-reflex%25C3%25A3o-melo/",
+			"note": "Artigo postado no Linkedin."
+		},
+		{ 
+			"person": "Minha Experiência na Labenu #01",
+			"link": "https://www.linkedin.com/pulse/embarquei-e-j%C3%A1-decolamos-s%C3%A9rie-minha-experi%C3%AAncia-na-future4-melo/",
+			"note": "Artigo postado no Linkedin."
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://www.linkedin.com/in/raphaelgois/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/raphaelmelo",
+			"icon": "github"
+		}
+	]
+}

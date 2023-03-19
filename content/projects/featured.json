@@ -1,0 +1,47 @@
+[
+	{
+		"project": "Getup Cloud.",
+		"url": "www.getup.io/",
+		"repo": "Private",
+		"descriptionTitle": "Novas funcionalidades foram adicionadas ao site institucional, como um blog com WP Headless e Nextjs/SSR.",
+		"description": "{{Frontend}}",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "556", "w": "556", "url": "/img/getup-mook.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "NextJS", 			"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "typescript", 	"name": "Typescript", 	"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "tailwindcss", "name": "Tailwindcss",  "type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "google",		"name": "GA4/GTM", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "Tecnologia Única.",
+		"url": "",
+		"repo": "Private",
+		"descriptionTitle": "Criação de SAAS com foco em SEO, utilizando tecnologias C-Sharp (.Net), SQL e Next.js.",
+		"description": "{{fullstack}}",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "556", "w": "556",  "url": "/img/opti.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "dotnetcore", 	"name": "Dotnetcore", 	"type": "devicon" },
+			{ "key": "typescript", 	"name": "Typescript", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "materialui",	"name": "Materialui",	"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	}
+]

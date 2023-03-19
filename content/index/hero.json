@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const Raphael = ( name, passion ) =>",
+		"end": "Olá, meu nome é",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Raphael Melo.",
+		"usp": "Projeto e construo experiências digitais."
+	},
+
+	"paragraph": "Sou um profissional digital - dev em constante evolução, apaixonado por UI.",
+
+	"buttons": {
+		"primary": {
+			"title": "Baixar CV",
+			"url": "https://drive.google.com/uc?export=download&id=1rSdxE6yDXy-9w_wzXl1rOLvOti0IR0Dm",
+			"leaveSite": "false"
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/raphaelgois/",
+			"leaveSite": "true"
+		}
+	}
+}
