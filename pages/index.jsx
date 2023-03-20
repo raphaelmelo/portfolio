@@ -8,12 +8,22 @@ import FeaturedProjects	from '../components/sections/projects/featured'
 import Color 		from '../components/utils/page.colors.util'
 
 import colors 		from '../content/index/_colors.json'
+import Head from 'next/head'
 
 //
 export default function HomePage() {
 
 	return (
 		<>
+			<Head>
+			<title>Raphael Melo - Desenvolvedor Fullstack</title>
+        <meta name="description" content="Com um conjunto diversificado de habilidades que incluem desenvolvimento full stack, design de UI, SEO e marketing digital, sou um profissional digital conectado e atualizado." key="desc" />
+        <meta property="og:title" content="Com um conjunto diversificado de habilidades que incluem desenvolvimento full stack, design de UI, SEO e marketing digital, sou um profissional digital conectado e atualizado." />
+        <meta
+          property="og:description"
+          content="Como um programador criativo, crio experiências digitais intuitivas utilizando um conjunto diversificado de ferramentas e linguagens."
+        />
+			</Head>
 			<Color colors={colors} />
 			<Hero />
 			<Looking />
