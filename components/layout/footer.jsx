@@ -35,7 +35,7 @@ export default function Footer() {
 			<Container spacing={['verticalXXLrg', 'bottomLrg']}>
 				<section className={css.sections}>
 					<ul className={css.thanks}>
-						<li><h4>Depoimentos Linkedin</h4></li>
+						<li><h4>Depoimentos In</h4></li>
 						{
 						content.acknowledgments.map( ({ person, link, note }, index) => {
 							return (
@@ -48,7 +48,7 @@ export default function Footer() {
 						}
 					</ul>
 					<ul className={css.links}>
-						<li><h4>Artigos</h4></li>
+						<li><h4>Blog</h4></li>
 						{
 						content.links.map( ({ person, link, note }, index) => {
 							return (
