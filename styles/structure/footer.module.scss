@@ -62,11 +62,12 @@
 	.socialList {
 		display: flex;
 		flex-direction: row;
-		gap: 1rem;
+		gap: 0rem;
 
 		svg {
+			width: 2rem;
 			height: 2rem;
-		}
+ 		}
 	}
 
 	/**

@@ -23,8 +23,8 @@ export default function Looking() {
 	return (
 		<Section classProp={`${looking.section} borderBottom`}>	
 			<Container classProp={`${section.title} ${looking.container}`} spacing={['verticalXXXLrg']}>
-				<h4>Desenvolvedor fullstack.</h4>
-				<h2 className={looking.json}>Junior / Pleno : &#123;</h2>
+				<h4>raphael-melo.css</h4>
+				<h2 className={looking.json}>#Fullstack : &#123;</h2>
 				<h2 className={looking.jsonSub}><span className={looking.highlight}>Front End Engineer</span>,</h2>
 				<h2 className={looking.jsonSub}><span className={looking.highlight1}>Backend Engineer</span>,</h2>
 				<h2 className={looking.jsonSub}><span className={looking.highlight2}>User Interface</span></h2>
