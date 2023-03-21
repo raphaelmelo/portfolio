@@ -65,11 +65,11 @@ export default function Hero() {
 				</section>
 				<section>
 					<button	className={`button ${button.primary}`}
-							onClick={ () => window.open("https://drive.google.com/uc?export=download&id=1ztgkbapJg5ejvwv8UB84Ck_Ck3230Fu8" )  } >
+							onClick={ () => window.open(`${content.buttons.primary.url}`)  } >
 						{content.buttons.primary.title}
 					</button>
 					<button className={`button ${button.secondary} leaveSite`}
-							onClick={ ()=> window.open("https://www.linkedin.com/in/raphaelgois/", "_blank") } >
+							onClick={ ()=> window.open(`${content.buttons.secondary.url}`, "_blank") } >
 						{content.buttons.secondary.title}
 					</button>
 				</section>
