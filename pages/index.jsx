@@ -17,8 +17,8 @@ export default function HomePage() {
 		<>
 			<Head>
 			<title>Raphael Melo - Desenvolvedor Fullstack</title>
-        <meta name="description" content="Com um conjunto diversificado de habilidades que incluem desenvolvimento full stack, design de UI, SEO e marketing digital, sou um profissional digital conectado e atualizado." key="desc" />
-        <meta property="og:title" content="Com um conjunto diversificado de habilidades que incluem desenvolvimento full stack, design de UI, SEO e marketing digital, sou um profissional digital conectado e atualizado." />
+         <meta name="description" content="Profissional digital - dev em constante evolução e apaixonado por UI | Com um conjunto diversificado de habilidades que incluem desenvolvimento full stack, design de UI, SEO e marketing digital, sou um profissional digital conectado e atualizado." />
+        <meta property="og:title" content="Profissional digital - dev em constante evolução e apaixonado por UI | Com um conjunto diversificado de habilidades que incluem desenvolvimento full stack, design de UI, SEO e marketing digital, sou um profissional digital conectado e atualizado." />
         <meta
           property="og:description"
           content="Como um programador criativo, crio experiências digitais intuitivas utilizando um conjunto diversificado de ferramentas e linguagens."
